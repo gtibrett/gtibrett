@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-label="GitHub stats for gtibrett">
+	<rect x="0.5" y="0.5" width="419" height="229" rx="6" fill="none" stroke="#d0d7de"/>
+	<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+		<text x="24" y="36" font-size="16" font-weight="600" fill="#0969da">gtibrett's GitHub Stats</text>
+		
+		<circle cx="28" cy="58" r="3" fill="#0969da"/>
+		<text x="42" y="62" font-size="14" fill="#1f2328">Contributions (last year)</text>
+		<text x="394" y="62" font-size="14" font-weight="600" text-anchor="end" fill="#0969da">2,718</text>
+		<circle cx="28" cy="88" r="3" fill="#0969da"/>
+		<text x="42" y="92" font-size="14" fill="#1f2328">Commits (last year)</text>
+		<text x="394" y="92" font-size="14" font-weight="600" text-anchor="end" fill="#0969da">246</text>
+		<circle cx="28" cy="118" r="3" fill="#0969da"/>
+		<text x="42" y="122" font-size="14" fill="#1f2328">Pull requests (last year)</text>
+		<text x="394" y="122" font-size="14" font-weight="600" text-anchor="end" fill="#0969da">28</text>
+		<circle cx="28" cy="148" r="3" fill="#0969da"/>
+		<text x="42" y="152" font-size="14" fill="#1f2328">Total stars earned</text>
+		<text x="394" y="152" font-size="14" font-weight="600" text-anchor="end" fill="#0969da">4</text>
+		<circle cx="28" cy="178" r="3" fill="#0969da"/>
+		<text x="42" y="182" font-size="14" fill="#1f2328">Followers</text>
+		<text x="394" y="182" font-size="14" font-weight="600" text-anchor="end" fill="#0969da">7</text>
+	</g>
+</svg>

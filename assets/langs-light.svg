@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="202" viewBox="0 0 420 202" role="img" aria-label="Most used languages for gtibrett">
+	<rect x="0.5" y="0.5" width="419" height="201" rx="6" fill="none" stroke="#d0d7de"/>
+	<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+		<text x="24" y="36" font-size="16" font-weight="600" fill="#0969da">Most Used Languages</text>
+		<rect x="24" y="54" width="372" height="10" rx="5" fill="#eff2f5"/>
+		<g clip-path="url(#bar)"><rect x="24" y="54" width="362.11452629927334" height="10" fill="#3178c6"/><rect x="386.11452629927334" y="54" width="2.7256644689315213" height="10" fill="#336790"/><rect x="388.8401907682049" y="54" width="2.5013124303333214" height="10" fill="#fcb32c"/><rect x="391.3415031985382" y="54" width="1.6966242918923513" height="10" fill="#663399"/><rect x="393.03812749043055" y="54" width="1.4643682519343229" height="10" fill="#f1e05a"/><rect x="394.5024957423649" y="54" width="0.8749121505225206" height="10" fill="#89e051"/><rect x="395.3774078928874" y="54" width="0.31768005465463306" height="10" fill="#384d54"/><rect x="395.69508794754205" y="54" width="0.3049120524579875" height="10" fill="#e34c26"/></g>
+		<clipPath id="bar"><rect x="24" y="54" width="372" height="10" rx="5"/></clipPath>
+		
+		<circle cx="29" cy="82" r="5" fill="#3178c6"/>
+		<text x="42" y="86" font-size="13" fill="#1f2328">TypeScript <tspan fill="#59636e">97.3%</tspan></text>
+		<circle cx="215" cy="82" r="5" fill="#336790"/>
+		<text x="228" y="86" font-size="13" fill="#1f2328">PLpgSQL <tspan fill="#59636e">0.7%</tspan></text>
+		<circle cx="29" cy="108" r="5" fill="#fcb32c"/>
+		<text x="42" y="112" font-size="13" fill="#1f2328">MDX <tspan fill="#59636e">0.7%</tspan></text>
+		<circle cx="215" cy="108" r="5" fill="#663399"/>
+		<text x="228" y="112" font-size="13" fill="#1f2328">CSS <tspan fill="#59636e">0.5%</tspan></text>
+		<circle cx="29" cy="134" r="5" fill="#f1e05a"/>
+		<text x="42" y="138" font-size="13" fill="#1f2328">JavaScript <tspan fill="#59636e">0.4%</tspan></text>
+		<circle cx="215" cy="134" r="5" fill="#89e051"/>
+		<text x="228" y="138" font-size="13" fill="#1f2328">Shell <tspan fill="#59636e">0.2%</tspan></text>
+		<circle cx="29" cy="160" r="5" fill="#384d54"/>
+		<text x="42" y="164" font-size="13" fill="#1f2328">Dockerfile <tspan fill="#59636e">0.1%</tspan></text>
+		<circle cx="215" cy="160" r="5" fill="#e34c26"/>
+		<text x="228" y="164" font-size="13" fill="#1f2328">HTML <tspan fill="#59636e">0.1%</tspan></text>
+	</g>
+</svg>

@@ -47,16 +47,16 @@ I also keep forks of the tools I lean on — [Nivo](https://github.com/gtibrett/
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gtibrett&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img alt="Brett's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gtibrett&show_icons=true&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+    <img alt="Brett's GitHub stats" src="assets/stats-light.svg" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg" />
+    <img alt="Brett's most used languages" src="assets/langs-light.svg" />
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gtibrett&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img alt="Brett's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtibrett&layout=compact&hide_border=true&bg_color=00000000" />
-  </picture>
-</p>
+<p align="center"><sub>Cards refresh weekly via <a href=".github/workflows/stats.yml">a GitHub Action</a> in this repo — no third-party stats service to go down.</sub></p>
 
 <p align="center"><sub>Most of my commits live in private repos these days — the graph undersells the mileage. 🏎️💨</sub></p>
