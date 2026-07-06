@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" role="img" aria-label="Contribution streak for gtibrett">
+	<rect x="0.5" y="0.5" width="419" height="149" rx="6" fill="none" stroke="#d0d7de"/>
+	<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+		<line x1="140.5" y1="30" x2="140.5" y2="120" stroke="#d0d7de"/><line x1="280.5" y1="30" x2="280.5" y2="120" stroke="#d0d7de"/>
+		
+		<text x="70" y="64" font-size="26" font-weight="700" text-anchor="middle" fill="#1f2328">3,685</text>
+		<text x="70" y="94" font-size="13" text-anchor="middle" fill="#1f2328">Total Contributions</text>
+		<text x="70" y="116" font-size="11" text-anchor="middle" fill="#59636e">Feb 25, 2014 – Present</text>
+		<text x="210" y="64" font-size="26" font-weight="700" text-anchor="middle" fill="#0969da">3</text>
+		<text x="210" y="94" font-size="13" text-anchor="middle" fill="#1f2328">Current Streak</text>
+		<text x="210" y="116" font-size="11" text-anchor="middle" fill="#59636e">Jul 4, 2026 – Present</text>
+		<text x="350" y="64" font-size="26" font-weight="700" text-anchor="middle" fill="#1f2328">24</text>
+		<text x="350" y="94" font-size="13" text-anchor="middle" fill="#1f2328">Longest Streak</text>
+		<text x="350" y="116" font-size="11" text-anchor="middle" fill="#59636e">May 25, 2026 – Jun 17, 2026</text>
+	</g>
+</svg>

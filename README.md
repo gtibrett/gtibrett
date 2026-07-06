@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Brett 👋</h1>
+<h1 align="center">Brett Harris</h1>
 
 <p align="center"><strong>Engineering for Good.</strong></p>
 
@@ -7,19 +7,10 @@
   &nbsp;·&nbsp;
   Virginia, USA
   &nbsp;·&nbsp;
-  Building at <a href="https://github.com/cocreatelabs">@cocreatelabs</a>
+  Building at <a href="https://github.com/cocreatelabs">CO:CREATE</a>
 </p>
 
 ---
-
-## About
-
-I'm a front-end-leaning full-stack engineer who cares about the craft of user interfaces — the kind that are fast, accessible, and quietly get out of the user's way. Most of my work lives in the React + TypeScript ecosystem, with a soft spot for design systems and data visualization.
-
-- 🛠️ Currently building at [CoCreate Labs](https://github.com/cocreatelabs)
-- 🎨 Big believer in UX as an engineering discipline, not an afterthought
-- 📊 If there's data, I will find a way to chart it
-- 🏎️ Formula 1 fan — which explains the repo below
 
 ## Stack
 
@@ -33,30 +24,20 @@ I'm a front-end-leaning full-stack engineer who cares about the craft of user in
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
-## Things I've Built
-
-| Project | What it is |
-| --- | --- |
-| 🏁 [**effone-hub**](https://github.com/gtibrett/effone-hub) | A Formula One data viewer — seasons, drivers, constructors, and circuits rendered as interactive dashboards. React, Material UI, and Nivo charts. |
-| 🧩 [**mui-additions**](https://github.com/gtibrett/mui-additions) | Common functionality and components layered on top of Material UI. |
-| 🚀 [**jira-launcher**](https://github.com/gtibrett/jira-launcher) | A Chrome extension for jumping straight to Jira tickets. |
-
-I also keep forks of the tools I lean on — [Nivo](https://github.com/gtibrett/nivo), [MUI](https://github.com/gtibrett/material-ui), [Font Awesome](https://github.com/gtibrett/Font-Awesome) — for digging into internals and the occasional patch.
-
 ## Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
-    <img alt="Brett's GitHub stats" src="assets/stats-light.svg" />
-  </picture>
-  &nbsp;
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg" />
     <img alt="Brett's most used languages" src="assets/langs-light.svg" />
   </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg" />
+    <img alt="Brett's contribution streak" src="assets/streak-light.svg" />
+  </picture>
 </p>
 
-<p align="center"><sub>Cards refresh weekly via <a href=".github/workflows/stats.yml">a GitHub Action</a> in this repo — no third-party stats service to go down.</sub></p>
+<p align="center"><sub>Most of my commits live in private repos these days — the graph undersells the mileage.</sub></p>
 
-<p align="center"><sub>Most of my commits live in private repos these days — the graph undersells the mileage. 🏎️💨</sub></p>
+<p align="center"><sub>Cards generated in-repo by <a href=".github/workflows/stats.yml">a weekly GitHub Action</a> — no third-party stats service to go down.</sub></p>
